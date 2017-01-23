@@ -1,8 +1,10 @@
 # mooc_universe
 
+### es6 resources
+
+[codeschool](pdf/es2015.pdf)
+
 ### frequently googled, rarely remembered
-
-
 
 [what is 'use strict'?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)  
 [how does mergesort work?](https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm)  
