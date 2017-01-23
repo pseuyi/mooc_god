@@ -2,7 +2,18 @@
 
 ### es6 resources
 
-[codeschool](pdf/es2015.pdf)
+[codeschool reference sheet](pdf/es2015.pdf)  
+[helpful playlist of canadian videos](https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
+
+### typing
+
+[app academy draconian drills](http://prepwork.appacademy.io/pre-course/typing/)  
+[typing.com](https://www.typing.com/)
+
+### react
+
+[tom's react redux rules](react/toms_rules.md)
+[react boilerplate](react/react_boiled.js)
 
 ### frequently googled, rarely remembered
 
