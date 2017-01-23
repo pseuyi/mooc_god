@@ -28,5 +28,5 @@
 [jest](https://facebook.github.io/jest/docs/tutorial-react.html)  
 [jquery plugins](https://learn.jquery.com/plugins/basic-plugin-creation/)  
 [grunt](http://gruntjs.com/getting-started)  
-[angular notepad](https://codepen.io/nickmoreton/pen/gbyygq)
+[angular notepad](https://codepen.io/nickmoreton/pen/gbyygq)  
 [goog vr sdk](https://developers.google.com/vr/ios/get-started)
