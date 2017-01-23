@@ -1,4 +1,4 @@
-setup
+<setup master>
 
 git init
 npm init
