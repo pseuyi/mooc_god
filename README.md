@@ -5,6 +5,16 @@
 [codeschool reference sheet](pdf/es2015.pdf)  
 [helpful playlist of canadian videos](https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 
+### regex
+
+[regexr](http://regexr.com/)  
+[regexone](https://regexone.com/)
+
+### css
+
+[flexboxgrid](http://flexboxgrid.com/)  miminal grid system
+[flexbox froggy](http://flexboxfroggy.com/) game to learn flexbox
+
 ### typing
 
 [app academy draconian drills](http://prepwork.appacademy.io/pre-course/typing/)  
