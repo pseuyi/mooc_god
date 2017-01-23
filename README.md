@@ -12,7 +12,7 @@
 
 ### css
 
-[flexboxgrid](http://flexboxgrid.com/)  miminal grid system
+[flexboxgrid](http://flexboxgrid.com/)  miminal grid system  
 [flexbox froggy](http://flexboxfroggy.com/) game to learn flexbox
 
 ### typing
