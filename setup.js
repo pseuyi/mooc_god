@@ -25,14 +25,10 @@ npm init -y // initializes with default values
 	app.use('/static', express.static('public'));
 	app.use('/static', express.static(__dirname + '/public'));
 
-	<router>
+<router instance>
 	var express = require('express');
 	var router = express.Router();
-	var models = require('../models');
-	var Promise = require('bluebird');
-		var Page = models.Page;
-		var User = models.User;
-	module.exports = router;
+	// module.exports = router;
 
 <body-parser>
 	npm i body-parser
@@ -58,8 +54,6 @@ npm init -y // initializes with default values
 <sequelize>
 	npm install sequelize pg pg-hstore --save
 	// pg/pg-hstore necessary to direct sql orl to interact w postgresSQL
-	bluebird is a dependency
-	ex. var Promise = require('bluebird')
 	sequelize.ARRAY can only be used with postgres
 	//required for models
 	var Sequelize = require('sequelize');
@@ -68,6 +62,7 @@ npm init -y // initializes with default values
 <bluebird>
 	npm install bluebird
 	var Promise = require("bluebird");
+
 <fs>
 	built into node library
 	var fs = require('fs');
@@ -75,6 +70,7 @@ npm init -y // initializes with default values
 <morgan>
 	var morgan = require('morgan')
 	app.use(morgan('combined'))
+	// dev mode includes colorful response statuses
 	app.use(morgan('dev'))
 	// only log errors
 	app.use(morgan('combined', {
