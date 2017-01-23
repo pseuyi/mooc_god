@@ -17,6 +17,7 @@ npm init -y // initializes with default values
 	npm install mocha —save-dev
 	npm install chai —save-dev
 	npm install chai-spies —save-dev
+	npm install supertest --save-dev
 
 <express>
 	var express = require('express');
@@ -83,6 +84,12 @@ app.use(function(err, req, res, next){
 	console.error(err) // messages
 	if(err) throw err // throw
 })
+
+<supertest>
+	npm install supertest --save-dev
+	var supertest = require('supertest');
+	var app = require('../app');
+	var agent = supertest.agent(app);
 
 *any files to gitignore?
 
