@@ -13,7 +13,8 @@
 ### css
 
 [flexboxgrid](http://flexboxgrid.com/)  miminal grid system  
-[flexbox froggy](http://flexboxfroggy.com/) game to learn flexbox
+[flexbox froggy](http://flexboxfroggy.com/) game to learn flexbox  
+[float layout examples](http://learnlayout.com/float-layout.html)
 
 ### typing
 
