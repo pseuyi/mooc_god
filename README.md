@@ -1,1 +1,1 @@
-# mooc_god
+# mooc_universe
