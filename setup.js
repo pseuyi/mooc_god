@@ -2,13 +2,21 @@ setup
 
 git init
 npm init
-npm init y
+npm init -y // initializes with default values
+
 <scripts>
-	"start": "nodemon -e html,js,css ./path/to/your/app.js"
+	"start": "nodemon -e html,js,css ./path/to/your/app.js",
+	"test": "mocha —watch **.spec.js"
+	//  mocha test by default looks for directory named ‘test'
 
 <npm all>
-	npm install express body-parser morgan sequelize pg pg-hstore nunjucks --save
+	npm install express body-parser morgan sequelize pg pg-hstore  --save
 	npm install nodemon --save-dev
+	npm install nunjucks --save
+	// testing
+	npm install mocha —save-dev
+	npm install chai —save-dev
+	npm install chai-spies —save-dev
 
 <express>
 	var express = require('express');
@@ -73,12 +81,13 @@ npm init y
 	  skip: function (req, res) { return res.statusCode < 400 }
 	}))
 
-<error handling>
+<express error handling>
 app.use(function(err, req, res, next){
-	res.status(err.status || 500);
-	console.error(err);
-});
+	res.status(err.status || 500) // statuses
+	console.error(err) // messages
+	if(err) throw err // throw
+})
 
 *any files to gitignore?
 
-module.exports = app;
+// module.exports = app; as needed
