@@ -5,6 +5,17 @@
 [codeschool reference sheet](pdf/es2015.pdf)  
 [helpful playlist of canadian videos](https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 
+### regex
+
+[regexr](http://regexr.com/)  
+[regexone](https://regexone.com/)
+
+### css
+
+[flexboxgrid](http://flexboxgrid.com/)  miminal grid system  
+[flexbox froggy](http://flexboxfroggy.com/) game to learn flexbox  
+[float layout examples](http://learnlayout.com/float-layout.html)
+
 ### typing
 
 [app academy draconian drills](http://prepwork.appacademy.io/pre-course/typing/)  
@@ -28,5 +39,5 @@
 [jest](https://facebook.github.io/jest/docs/tutorial-react.html)  
 [jquery plugins](https://learn.jquery.com/plugins/basic-plugin-creation/)  
 [grunt](http://gruntjs.com/getting-started)  
-[angular notepad](https://codepen.io/nickmoreton/pen/gbyygq)
+[angular notepad](https://codepen.io/nickmoreton/pen/gbyygq)  
 [goog vr sdk](https://developers.google.com/vr/ios/get-started)
