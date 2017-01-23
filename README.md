@@ -22,3 +22,11 @@
 [array splice method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)  
 [the difference between addEventListener 'click' and inline onclick](http://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)  
 [ALOs: array-like objects](http://www.2ality.com/2013/05/quirk-array-like-objects.html)
+
+### tutorials/quick start/lazy
+
+[jest](https://facebook.github.io/jest/docs/tutorial-react.html)  
+[jquery plugins](https://learn.jquery.com/plugins/basic-plugin-creation/)  
+[grunt](http://gruntjs.com/getting-started)  
+[angular notepad](https://codepen.io/nickmoreton/pen/gbyygq)
+[goog vr sdk](https://developers.google.com/vr/ios/get-started)
