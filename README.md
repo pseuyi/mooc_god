@@ -23,8 +23,9 @@
 
 ### react
 
-[tom's react redux rules](react/toms_rules.md)
-[react boilerplate](react/react_boiled.js)
+[tom's react redux rules](react/toms_rules.md)  
+[react boilerplate](react/react_boiled.js)  
+[airbnb react/jsx style guide](https://github.com/airbnb/javascript/tree/master/react)
 
 ### frequently googled, rarely remembered
 
