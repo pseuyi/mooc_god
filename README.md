@@ -1,4 +1,4 @@
-# mooc_universe
+# free online coding resources
 
 ### es6 resources
 
